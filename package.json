@@ -1,0 +1,19 @@
+{
+  "name": "datatype",
+  "version": "0.0.1",
+  "description": "Data type checker for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liu Hua",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan058/datatype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dylan058/datatype/issues"
+  },
+  "homepage": "https://github.com/dylan058/datatype#readme"
+}
