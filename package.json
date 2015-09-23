@@ -4,7 +4,7 @@
   "description": "Data type checker for JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Liu Hua",
   "license": "ISC",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dylan058/datatype/issues"
   },
-  "homepage": "https://github.com/dylan058/datatype#readme"
+  "homepage": "https://github.com/dylan058/datatype#readme",
+  "devDependencies": {
+    "jest-cli": "^0.5.7"
+  }
 }
