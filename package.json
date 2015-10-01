@@ -20,6 +20,5 @@
     "jest-cli": "^0.5.7"
   },
   "dependencies": {
-    "jest-cli": "^0.5.7"
   }
 }
