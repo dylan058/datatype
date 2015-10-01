@@ -1,6 +1,6 @@
 {
   "name": "@mtfe/datatype-checker",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Data type checker for JavaScript.",
   "main": "index.js",
   "scripts": {
