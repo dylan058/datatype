@@ -1,12 +1,12 @@
 {
-  "name": "datatype",
+  "name": "@mtfe/datatype-checker",
   "version": "0.0.1",
   "description": "Data type checker for JavaScript.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "Liu Hua",
+  "author": "liuhua05",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/dylan058/datatype#readme",
   "devDependencies": {
+    "jest-cli": "^0.5.7"
+  },
+  "dependencies": {
     "jest-cli": "^0.5.7"
   }
 }
