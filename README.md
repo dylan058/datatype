@@ -1,6 +1,6 @@
 > DON'T PANIC!
 
-`datatype-checker` is a simple module with only two api for data type checking in JavaScript;
+`datatype-checker` is a simple module with only two kinds of apis for data type checking in JavaScript;
 
 # INSTALLATION
 
